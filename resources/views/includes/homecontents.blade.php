@@ -1,196 +1,9 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <title>Medic | Medical HTML Template</title>
-
-  
-  <!-- mobile responsive meta -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  
-  <!-- Slick Carousel -->
-  <link rel="stylesheet" href="assets/plugins/slick/slick.css">
-  <link rel="stylesheet" href="assets/plugins/slick/slick-theme.css">
-  <!-- FancyBox -->
-  <link rel="stylesheet" href="assets/plugins/fancybox/jquery.fancybox.min.css">
-  
-  <!-- Stylesheets -->
-  <link href="assets/css/style.css" rel="stylesheet">
-  
-  <!--Favicon-->
-  <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
-
-</head>
-
-
-<body>
-  <div class="page-wrapper">
-    <!-- Preloader -->
-    <!-- <div class="preloader"></div> -->
-    <!-- Preloader -->
-
-  
-
-<!--header top-->
-<div class="header-top">
-      <div class="container clearfix">
-            <div class="top-left">
-                  <h6>Opening Hours : Saturday to Tuesday - 8am to 10pm</h6>
-            </div>
-            <div class="top-right">
-                  <ul class="social-links">
-                        <li>
-                              <a href="#">
-                                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                              </a>
-                        </li>
-                        <li>
-                              <a href="#">
-                                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                              </a>
-                        </li>
-                        <li>
-                              <a href="#">
-                                    <i class="fa fa-google-plus" aria-hidden="true"></i>
-                              </a>
-                        </li>
-                        <li>
-                              <a href="#">
-                                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                              </a>
-                        </li>
-                        <li>
-                              <a href="#">
-                                    <i class="fa fa-pinterest-p" aria-hidden="true"></i>
-                              </a>
-                        </li>
-                  </ul>
-            </div>
-      </div>
-</div>
-<!--header top-->
-
-<!--Header Upper-->
-<section class="header-uper">
-      <div class="container clearfix">
-            <div class="logo">
-                  <figure>
-                        <a href="index.html">
-                              <img src="images/logo.png" alt="" width="130">
-                        </a>
-                  </figure>
-            </div>
-            <div class="right-side">
-                  <ul class="contact-info">
-                        <li class="item">
-                              <div class="icon-box">
-                                    <i class="fa fa-envelope-o"></i>
-                              </div>
-                              <strong>Email</strong>
-                              <br>
-                              <a href="#">
-                                    <span>info@medic.com</span>
-                              </a>
-                        </li>
-                        <li class="item">
-                              <div class="icon-box">
-                                    <i class="fa fa-phone"></i>
-                              </div>
-                              <strong>Call Now</strong>
-                              <br>
-                              <span>+ (88017) - 123 - 4567</span>
-                        </li>
-                  </ul>
-                  <div class="link-btn">
-                        <a href="#" class="btn-style-one">Appoinment</a>
-                  </div>
-            </div>
-      </div>
-</section>
-<!--Header Upper-->
-
-
-<!--Main Header-->
-<nav class="navbar navbar-default">
-      <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
-                        aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                  </button>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                  <ul class="nav navbar-nav">
-                        <li class="active">
-                              <a href="index.html">Home</a>
-                        </li>
-                        <li>
-                              <a href="about.html">About</a>
-                        </li>
-                        <li>
-                              <a href="service.html">Service</a>
-                        </li>
-                        <li>
-                              <a href="gallery.html">Gallery</a>
-                        </li>
-                        <li>
-                              <a href="team.html">Team</a>
-                        </li>
-                        <li>
-                              <a href="appointment.html">Appointment</a>
-                        </li>
-                        <li>
-                              <a href="blog.html">Blog</a>
-                        </li>
-                        <li>
-                              <a href="contact.html">Contact</a>
-                        </li>
-                        <!-- <li class="dropdown">
-                              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown
-                                    <span class="caret"></span>
-                              </a>
-                              <ul class="dropdown-menu">
-                                    <li>
-                                          <a href="#">Action</a>
-                                    </li>
-                                    <li>
-                                          <a href="#">Another action</a>
-                                    </li>
-                                    <li>
-                                          <a href="#">Something else here</a>
-                                    </li>
-                                    <li role="separator" class="divider"></li>
-                                    <li>
-                                          <a href="#">Separated link</a>
-                                    </li>
-                                    <li role="separator" class="divider"></li>
-                                    <li>
-                                          <a href="#">One more separated link</a>
-                                    </li>
-                              </ul>
-                        </li> -->
-                  </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-      </div>
-      <!-- /.container-fluid -->
-</nav>
-<!--End Main Header -->
-
 <!--=================================
 =            Page Slider            =
 ==================================-->
 <div class="hero-slider">
     <!-- Slider Item -->
-    <div class="slider-item slide1" style="background-image:url(images/slider/slider-bg-1.jpg)">
+    <div class="slider-item slide1" style="background-image:url(assets/images/slider/slider-bg-1.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -207,7 +20,7 @@
         </div>
     </div>
     <!-- Slider Item -->
-    <div class="slider-item" style="background-image:url(images/slider/slider-bg-2.jpg);">
+    <div class="slider-item" style="background-image:url(assets/images/slider/slider-bg-2.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -223,7 +36,7 @@
         </div>
     </div>
     <!-- Slider Item -->
-    <div class="slider-item" style="background-image:url(images/slider/slider-bg-3.jpg)">
+    <div class="slider-item" style="background-image:url(assets/images/slider/slider-bg-3.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -294,7 +107,7 @@
 								<div class="icon-box">
 									<figure>
 										<a href="#">
-											<img src="images/resource/1.png" alt="">
+											<img src="assets/images/resource/1.png" alt="">
 										</a>
 									</figure>
 								</div>
@@ -308,7 +121,7 @@
 								<div class="icon-box">
 									<figure>
 										<a href="#">
-											<img src="images/resource/2.png" alt="">
+											<img src="assets/images/resource/2.png" alt="">
 										</a>
 									</figure>
 								</div>
@@ -322,7 +135,7 @@
 								<div class="icon-box">
 									<figure>
 										<a href="#">
-											<img src="images/resource/3.png" alt="">
+											<img src="assets/images/resource/3.png" alt="">
 										</a>
 									</figure>
 								</div>
@@ -336,7 +149,7 @@
 								<div class="icon-box">
 									<figure>
 										<a href="#">
-											<img src="images/resource/4.png" alt="">
+											<img src="assets/images/resource/4.png" alt="">
 										</a>
 									</figure>
 								</div>
@@ -383,7 +196,7 @@
                     <div class="tab-content">
                         <div class="service-box tab-pane fade in active row" id="dormitory">
                             <div class="col-md-6">
-                                <img class="img-responsive" src="images/services/service-one.jpg" alt="service-image">
+                                <img class="img-responsive" src="assets/images/services/service-one.jpg" alt="service-image">
                             </div>
                             <div class="col-md-6">
                                 <div class="contents">
@@ -412,7 +225,7 @@
                         <!--Start single tab content-->
                         <div class="service-box tab-pane fade in" id="orthopedic">
                             <div class="col-md-6">
-                                <img class="img-responsive" src="images/services/service-two.jpg" alt="service-image">
+                                <img class="img-responsive" src="assets/images/services/service-two.jpg" alt="service-image">
                             </div>
                             <div class="col-md-6">
                                 <div class="contents">
@@ -441,7 +254,7 @@
                         <!--Start single tab content-->
                         <div class="service-box tab-pane fade in" id="sonogram">
                             <div class="col-md-6">
-                                <img class="img-responsive" src="images/services/service-three.jpg" alt="service-image">
+                                <img class="img-responsive" src="assets/images/services/service-three.jpg" alt="service-image">
                             </div>
                             <div class="col-md-6">
                                 <div class="contents">
@@ -470,7 +283,7 @@
                         <!--Start single tab content-->
                         <div class="service-box tab-pane fade in" id="x-ray">
                             <div class="col-md-6">
-                                <img class="img-responsive" src="images/services/service-four.jpg" alt="service-image">
+                                <img class="img-responsive" src="assets/images/services/service-four.jpg" alt="service-image">
                             </div>
                             <div class="col-md-6">
                                 <div class="contents">
@@ -499,7 +312,7 @@
                         <!--Start single tab content-->
                         <div class="service-box tab-pane fade in" id="diagnostic">
                             <div class="col-md-6">
-                                <img class="img-responsive" src="images/services/service-five.jpg" alt="service-image">
+                                <img class="img-responsive" src="assets/images/services/service-five.jpg" alt="service-image">
                             </div>
                             <div class="col-md-6">
                                 <div class="contents">
@@ -548,7 +361,7 @@
                 <div class="inner-box">
                     <div class="img_holder">
                         <a href="service.html">
-                            <img src="images/gallery/1.jpg" alt="images" class="img-responsive">
+                            <img src="assets/images/gallery/1.jpg" alt="images" class="img-responsive">
                         </a>
                     </div>
                     <div class="image-content text-center">
@@ -564,7 +377,7 @@
                 <div class="inner-box">
                     <div class="img_holder">
                         <a href="service.html">
-                            <img src="images/gallery/2.jpg" alt="images" class="img-responsive">
+                            <img src="assets/images/gallery/2.jpg" alt="images" class="img-responsive">
                         </a>
                     </div>
                     <div class="image-content text-center">
@@ -580,7 +393,7 @@
                 <div class="inner-box">
                     <div class="img_holder">
                         <a href="service.html">
-                            <img src="images/gallery/3.jpg" alt="images" class="img-responsive">
+                            <img src="assets/images/gallery/3.jpg" alt="images" class="img-responsive">
                         </a>
                     </div>
                     <div class="image-content text-center">
@@ -596,7 +409,7 @@
                 <div class="inner-box">
                     <div class="img_holder">
                         <a href="service.html">
-                            <img src="images/gallery/1.jpg" alt="images" class="img-responsive">
+                            <img src="assets/images/gallery/1.jpg" alt="images" class="img-responsive">
                         </a>
                     </div>
                     <div class="image-content text-center">
@@ -612,7 +425,7 @@
                 <div class="inner-box">
                     <div class="img_holder">
                         <a href="service.html">
-                            <img src="images/gallery/2.jpg" alt="images" class="img-responsive">
+                            <img src="assets/images/gallery/2.jpg" alt="images" class="img-responsive">
                         </a>
                     </div>
                     <div class="image-content text-center">
@@ -628,7 +441,7 @@
                 <div class="inner-box">
                     <div class="img_holder">
                         <a href="service.html">
-                            <img src="images/gallery/3.jpg" alt="images" class="img-responsive">
+                            <img src="assets/images/gallery/3.jpg" alt="images" class="img-responsive">
                         </a>
                     </div>
                     <div class="image-content text-center">
@@ -658,7 +471,7 @@
         <div class="row">
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="team-member">
-                    <img src="images/team/doctor-2.jpg" alt="doctor" class="img-responsive">
+                    <img src="assets/images/team/doctor-2.jpg" alt="doctor" class="img-responsive">
                     <div class="contents text-center">
                         <h4>Dr. Robert Barrethion</h4>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos, aspernatur.</p>
@@ -668,7 +481,7 @@
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="team-member">
-                    <img src="images/team/doctor-lab-3.jpg" alt="doctor" class="img-responsive">
+                    <img src="assets/images/team/doctor-lab-3.jpg" alt="doctor" class="img-responsive">
                     <div class="contents text-center">
                         <h4>Dr. Marry Lou</h4>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos, aspernatur.</p>
@@ -678,7 +491,7 @@
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="team-member">
-                    <img src="images/team/event-2.jpg" alt="doctor" class="img-responsive">
+                    <img src="assets/images/team/event-2.jpg" alt="doctor" class="img-responsive">
                     <div class="contents text-center">
                         <h4>Dr. Sansa Stark</h4>
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos, aspernatur.</p>
@@ -692,7 +505,7 @@
 <!--End team section-->
 
 <!--testimonial-section-->
-<section class="testimonial-section" style="background: url(images/testimonials/1.jpg);">
+<section class="testimonial-section" style="background: url(assets/images/testimonials/1.jpg);">
     <div class="container">
         <div class="section-title text-center">
             <h3>What Our
@@ -705,7 +518,7 @@
                 <div class="inner-box text-center">
                     <div class="image-box">
                         <figure>
-                            <img src="images/testimonials/1.png" alt="">
+                            <img src="assets/images/testimonials/1.png" alt="">
                         </figure>
                     </div>
                     <h6>Adam Rose</h6>
@@ -717,7 +530,7 @@
                 <div class="inner-box text-center">
                     <div class="image-box">
                         <figure>
-                            <img src="images/testimonials/2.png" alt="">
+                            <img src="assets/images/testimonials/2.png" alt="">
                         </figure>
                     </div>
                     <h6>David Warner</h6>
@@ -729,7 +542,7 @@
                 <div class="inner-box text-center">
                     <div class="image-box">
                         <figure>
-                            <img src="images/testimonials/3.png" alt="">
+                            <img src="assets/images/testimonials/3.png" alt="">
                         </figure>
                     </div>
                     <h6>Amy Adams</h6>
@@ -741,7 +554,7 @@
                 <div class="inner-box text-center">
                     <div class="image-box">
                         <figure>
-                            <img src="images/testimonials/1.png" alt="">
+                            <img src="assets/images/testimonials/1.png" alt="">
                         </figure>
                     </div>
                     <h6>Adam Rose</h6>
@@ -753,7 +566,7 @@
                 <div class="inner-box text-center">
                     <div class="image-box">
                         <figure>
-                            <img src="images/testimonials/2.png" alt="">
+                            <img src="assets/images/testimonials/2.png" alt="">
                         </figure>
                     </div>
                     <h6>David Warner</h6>
@@ -765,7 +578,7 @@
                 <div class="inner-box text-center">
                     <div class="image-box">
                         <figure>
-                            <img src="images/testimonials/3.png" alt="">
+                            <img src="assets/images/testimonials/3.png" alt="">
                         </figure>
                     </div>
                     <h6>Amy Adams</h6>
@@ -777,7 +590,7 @@
                 <div class="inner-box text-center">
                     <div class="image-box">
                         <figure>
-                            <img src="images/testimonials/1.png" alt="">
+                            <img src="assets/images/testimonials/1.png" alt="">
                         </figure>
                     </div>
                     <h6>Adam Rose</h6>
@@ -789,7 +602,7 @@
                 <div class="inner-box text-center">
                     <div class="image-box">
                         <figure>
-                            <img src="images/testimonials/2.png" alt="">
+                            <img src="assets/images/testimonials/2.png" alt="">
                         </figure>
                     </div>
                     <h6>David Warner</h6>
@@ -801,7 +614,7 @@
                 <div class="inner-box text-center">
                     <div class="image-box">
                         <figure>
-                            <img src="images/testimonials/3.png" alt="">
+                            <img src="assets/images/testimonials/3.png" alt="">
                         </figure>
                     </div>
                     <h6>Amy Adams</h6>
@@ -943,158 +756,3 @@
     </div>
 </section>
 <!-- End Contact Section -->
-
-<!--footer-main-->
-<footer class="footer-main">
-  <div class="footer-top">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4 col-sm-6 col-xs-12">
-          <div class="about-widget">
-            <div class="footer-logo">
-              <figure>
-                <a href="index.html">
-                  <img src="images/logo-2.png" alt="">
-                </a>
-              </figure>
-            </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, temporibus?</p>
-            <ul class="location-link">
-              <li class="item">
-                <i class="fa fa-map-marker"></i>
-                <p>Modamba, NY 80021, United States</p>
-              </li>
-              <li class="item">
-                <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                <a href="#">
-                  <p>Support@medic.com</p>
-                </a>
-              </li>
-              <li class="item">
-                <i class="fa fa-phone" aria-hidden="true"></i>
-                <p>(88017) +123 4567</p>
-              </li>
-            </ul>
-            <ul class="list-inline social-icons">
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="#"><i class="fa fa-vimeo"></i></a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-6 col-xs-12">
-          <h6>Services</h6>
-          <ul class="menu-link">
-            <li>
-              <a href="#">
-                <i class="fa fa-angle-right" aria-hidden="true"></i>Orthopadic Liabilities</a>
-            </li>
-            <li>
-              <a href="#">
-                <i class="fa fa-angle-right" aria-hidden="true"></i>Dental Clinic</a>
-            </li>
-            <li>
-              <a href="#">
-                <i class="fa fa-angle-right" aria-hidden="true"></i>Dormamu Clinic</a>
-            </li>
-            <li>
-              <a href="#">
-                <i class="fa fa-angle-right" aria-hidden="true"></i>Psycological Clinic</a>
-            </li>
-            <li>
-              <a href="#">
-                <i class="fa fa-angle-right" aria-hidden="true"></i>Gynaecological Clinic</a>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-4 col-sm-6 col-xs-12">
-          <div class="social-links">
-            <h6>Recent Posts</h6>
-            <ul>
-              <li class="item">
-                <div class="media">
-                  <div class="media-left">
-                    <a href="#">
-                      <img class="media-object" src="images/blog/post-thumb-small.jpg" alt="post-thumb">
-                    </a>
-                  </div>
-                  <div class="media-body">
-                    <h4 class="media-heading"><a href="#">Post Title</a></h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, dolorem.</p>
-                  </div>
-                </div>
-              </li>
-              <li class="item">
-                <div class="media">
-                  <div class="media-left">
-                    <a href="#">
-                      <img class="media-object" src="images/blog/post-thumb-small.jpg" alt="post-thumb">
-                    </a>
-                  </div>
-                  <div class="media-body">
-                    <h4 class="media-heading">
-                      <a href="#">Post Title</a>
-                    </h4>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, dolorem.</p>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="footer-bottom">
-    <div class="container clearfix">
-      <div class="copyright-text">
-        <p>&copy; Copyright 2018. All Rights Reserved by
-          <a href="index.html">Medic</a>
-        </p>
-      </div>
-      <ul class="footer-bottom-link">
-        <li>
-          <a href="index.html">Home</a>
-        </li>
-        <li>
-          <a href="about.html">About</a>
-        </li>
-        <li>
-          <a href="contact.html">Contact</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</footer>
-<!--End footer-main-->
-
-</div>
-<!--End pagewrapper-->
-
-
-<!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target" data-target=".header-top">
-  <span class="icon fa fa-angle-up"></span>
-</div>
-
-<script src="assets/plugins/jquery.js"></script>
-<script src="assets/plugins/bootstrap.min.js"></script>
-<script src="assets/plugins/bootstrap-select.min.js"></script>
-<!-- Slick Slider -->
-<script src="assets/plugins/slick/slick.min.js"></script>
-<!-- FancyBox -->
-<script src="assets/plugins/fancybox/jquery.fancybox.min.js"></script>
-<!-- Google Map -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
-<script src="assets/plugins/google-map/gmap.js"></script>
-
-<script src="assets/plugins/validate.js"></script>
-<script src="assets/plugins/wow.js"></script>
-<script src="assets/plugins/jquery-ui.js"></script>
-<script src="assets/plugins/timePicker.js"></script>
-<script src="assets/js/script.js"></script>
-</body>
-
-</html>
-
